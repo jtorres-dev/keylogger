@@ -6,8 +6,8 @@ This is intended for security practice and shall not be used for malicious attac
 
 ## Usage ##
 
-#### 1. Clone this repository and unzip and run the following command to start keylogging: ####
+#### Clone this repository and unzip and run the following command to start keylogging: ####
 ```
 sudo bash .autologger.sh
 ```
-*Note: This will not send to a designated server unless you unpackage the `.logger.tar` file and change the username and password in the `.eventtranslater.py` for your sftp server to receive logs.*
+*Note: This will not send to a designated server unless you unpackage the `.logger.tar` file with `tar xvf .logger.tar` and change the username and password in the `.eventtranslater.py` for your sftp server to receive logs. Once you change the settings, run `tar cvf .logger.tar .event_translater.py .keylogger.py` to compress the new tar file.*
