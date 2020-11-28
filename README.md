@@ -10,7 +10,7 @@ This is intended for security practice and shall not be used for malicious attac
 
 # Usage #
 
-#### Clone this repository and unzip and run the following command to start keylogging: ####
+#### Clone this repository and run the following command to start keylogging: ####
 ```
 sudo bash .autologger.sh
 ```
