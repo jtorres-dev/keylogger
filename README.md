@@ -4,7 +4,11 @@ This directory is composed of `.autologger.sh` and `.logger.tar`. The `.autologg
 # Disclaimer #
 This is intended for security practice and shall not be used for malicious attacks. In no way what so ever should this be used under an illegal act. If you choose to use this repository, I am not responsible for your actions. This logger only works on Linux and will have other implementations done with Windows 10 and Mac. The current username and password needs to be changed for the sftp server that receives the logs.
 
-## Usage ##
+<br/>
+<br/>
+<br/>
+
+# Usage #
 
 #### Clone this repository and unzip and run the following command to start keylogging: ####
 ```
